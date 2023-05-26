@@ -10,3 +10,9 @@
 .nav-link:hover{
     color: #459862 !important;
 }
+
+#dondeir .titulo{
+    width: 100%;
+    text-align: center;
+
+}
